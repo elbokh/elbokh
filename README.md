@@ -1,5 +1,5 @@
-[![Python](https://img.shields.io/badge/Python%20-%2314354C?&style=flat&logo=python&logoColor=%23F7DF1A)](https://www.python.org/)
 [![Typescript](https://img.shields.io/badge/Typescript%20-%23007ACC?&style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![Python](https://img.shields.io/badge/Python%20-%2314354C?&style=flat&logo=python&logoColor=%23F7DF1A)](https://www.python.org/)
 [![Php](https://img.shields.io/badge/PHP%20-%23777BB4?&style=flat&logo=php&logoColor=white)](https://www.php.net/)
 [![Swift](https://img.shields.io/badge/Swift%20-%23FA7343?&style=flat&logo=swift&logoColor=white)](https://www.swift.org/)
 ---
