@@ -8,7 +8,6 @@
 ---
 [![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)](https://reactjs.org/)
 [![Livewire](https://img.shields.io/badge/Livewire-fb70a9?style=flat&logo=livewire&logoColor=white)](https://livewire.laravel.com/)
-
 ---
 [![Docker](https://img.shields.io/badge/Docker%20-%230db7ed?&style=flat&logo=docker&logoColor=white)](https://www.docker.com/)
 ---
