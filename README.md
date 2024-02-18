@@ -16,7 +16,8 @@
 ---
 [![Docker](https://img.shields.io/badge/Docker%20-%230db7ed?&style=flat&logo=docker&logoColor=white)](https://www.docker.com/)
 ---
-[![Mysql](https://shields.io/badge/MySQL-lightgrey?logo=mysql&style=flat&logoColor=white&labelColor=blue)](https://www.mysql.com/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+[![MySQL](https://shields.io/badge/MySQL-lightgrey?logo=mysql&style=flat&logoColor=white&labelColor=blue)](https://www.mysql.com/)
 [![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![Postgresql](https://img.shields.io/badge/redis-%23DD0031.svg?&style=flat&logo=redis&logoColor=white)](https://www.redis.io/)
 ---
